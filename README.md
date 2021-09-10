@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/tkymSecure/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure&layout=compact" />
+</a>
 
 <a href="https://github.com/tkymSecure/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tkymSecure&count_private=true&show_icons=true" />
+
 </a>
-<a href="https://github.com/tkymSecure/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure" />
-</a>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tkymSecure&theme=onedark)](https://github.com/tkymSecure/github-profile-trophy)
 
