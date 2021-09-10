@@ -22,5 +22,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkymSecure&theme=onedark)](https://github.com/tkymSecure/github-profile-trophy)
+
 
 
