@@ -16,19 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- If you're using "main" as default branch -->
 
-![Metrics](https://metrics.lecoq.io/tkymSecure?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo&config.display=columns)
+![Metrics](https://metrics.lecoq.io/tkymSecure?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTokyo&config.display=large)
 
-<!-- <a href="https://github.com/tkymSecure/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure&layout=compact" />
-</a>
-
-<a href="https://github.com/tkymSecure/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tkymSecure&count_private=true&show_icons=true" />
-
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkymSecure&theme=onedark)](https://github.com/tkymSecure/github-profile-trophy)
- -->
 
 
 
