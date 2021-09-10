@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/tkymSecure/tkymSecure/blob/main/github-metrics.svg)
+
+
 <a href="https://github.com/tkymSecure/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure&layout=compact" />
 </a>
@@ -25,6 +29,8 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tkymSecure&theme=onedark)](https://github.com/tkymSecure/github-profile-trophy)
+
+
 
 
 
