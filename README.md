@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/tkymSecure/tkymSecure/blob/main/github-metrics.svg)
 
+![Metrics](https://metrics.lecoq.io/tkymSecure?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo&config.display=columns)
 
-<a href="https://github.com/tkymSecure/github-readme-stats">
+<!-- <a href="https://github.com/tkymSecure/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkymSecure&layout=compact" />
 </a>
 
@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 </a>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=tkymSecure&theme=onedark)](https://github.com/tkymSecure/github-profile-trophy)
-
+ -->
 
 
 
